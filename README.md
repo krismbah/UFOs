@@ -26,7 +26,7 @@ Figure 1:
 
 The following is a search focused on the "State" of California (ca):
 
-Figure 1:
+Figure 2:
 
 ![California](https://raw.githubusercontent.com/krismbah/UFOs/main/deliverable2.png)
 
