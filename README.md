@@ -7,7 +7,7 @@ The purpose of this analysis is to provide Dana's webpage/table with a more in-d
 1. Remove the list element which creates the button, and create five list elements for filtering the index.html file.
 2. Modify the event listener to detect changes to each filter in the app.js file.
 3. Change the updateFilters() function to save the element, value, and id of the filter to be changed.
-4. loop the filterTable() function through all of the filters and keep any data matching the filter values.
+4. Loop the filterTable() function through all of the filters and keep any data matching the filter values.
 5. Ensure the webpage filters the table correctly based on user input.
 
 ## Results
@@ -33,7 +33,7 @@ Figure 1:
 
 ## Summary
 
-To summarize, one major drawback of this new design is that the user isn't given a dropdown menu of criteria to choose from within each filter. The criteria they may choose maynot be existing. For futher development of the webpage, the following recommendations are suggested:
+To summarize, one major drawback of this new design is that the user isn't given a dropdown menu of criteria to choose from within each filter. The criteria they may choose may not be existing. For futher development of the webpage, the following recommendations are suggested:
 
 1. Change the filter elements to dropdown menus.
 2. Include a greater dataset spanning more than two weeks of one year.
